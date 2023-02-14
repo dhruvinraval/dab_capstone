@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438580176604",
+    "project_id": "driverdrowsinessdetectio-76f85",
+    "storage_bucket": "driverdrowsinessdetectio-76f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438580176604:android:4a3b2ab86193b46a05b619",
+        "android_client_info": {
+          "package_name": "com.example.drowsinessdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438580176604-9hib43hn085uudtvbfdnph8k14bln4u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drowsinessdetection",
+            "certificate_hash": "8151e573e98ad71e51044605475286ca4016d270"
+          }
+        },
+        {
+          "client_id": "438580176604-fu01kt046pupqmabpq2hblk9ouenbcl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRH2SVaNltSOg58rWC753rzWoZQGSvMI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438580176604-fu01kt046pupqmabpq2hblk9ouenbcl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
